@@ -34,7 +34,7 @@ https://www.tistory.com/
 
 ##### 1. Computer System Overview
 
-https://www.tistory.com/
+https://codingantbean.tistory.com/
 
 ---
 
