@@ -2,6 +2,8 @@
 
 > 유튜브 강의 수강 후 블로그에 정리 (45일 챌린지🔥)
 >
+> 2021.03.10 ~
+>
 > 강의 링크 : https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN
 >
 > 강의 자료 : https://hpclab.tistory.com/1
