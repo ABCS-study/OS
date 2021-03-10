@@ -22,35 +22,13 @@
 
 ### 2021.03.10
 
-#### 조명희
-
-##### 2. OS Overview (1/3)
-
-https://www.tistory.com/
-
-
-
-#### 곽온겸
+#### 이종희
 
 ##### 1. Computer System Overview
 
-https://www.tistory.com/
+https://jjong2.tistory.com/2
 
 ---
 
-### 2021.03.09
 
-#### 조명희
-
-##### 1. Computer System Overview
-
-https://www.tistory.com/
-
-
-
-#### 곽온겸
-
-##### 1. Computer System Overview
-
-https://www.tistory.com/
 
