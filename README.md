@@ -28,9 +28,6 @@
 
 https://jjong2.tistory.com/2
 
-
-### 2021.03.10
-
 #### 이강림
 
 ##### 1. Computer System Overview
