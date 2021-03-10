@@ -22,6 +22,22 @@
 
 ### 2021.03.10
 
+#### 이종희
+
+##### 1. Computer System Overview
+
+https://jjong2.tistory.com/2
+
+
+
+#### 이강림
+
+##### 1. Computer System Overview
+
+https://github.com/leekangrim/TIL/tree/master/os/1%EA%B0%95
+
+
+
 #### 조명희
 
 ##### 1. Computer System Overview
@@ -35,3 +51,4 @@ https://maeng2world.tistory.com/20
 ##### 1. Computer System Overview
 
 https://codingantbean.tistory.com/3
+
