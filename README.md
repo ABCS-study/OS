@@ -24,9 +24,9 @@
 
 #### 조명희
 
-##### 2. OS Overview (1/3)
+##### 1. Computer System Overview
 
-https://www.tistory.com/
+https://maeng2world.tistory.com/20
 
 
 
@@ -34,23 +34,4 @@ https://www.tistory.com/
 
 ##### 1. Computer System Overview
 
-https://codingantbean.tistory.com/
-
----
-
-### 2021.03.09
-
-#### 조명희
-
-##### 1. Computer System Overview
-
-https://www.tistory.com/
-
-
-
-#### 곽온겸
-
-##### 1. Computer System Overview
-
-https://www.tistory.com/
-
+https://codingantbean.tistory.com/3
