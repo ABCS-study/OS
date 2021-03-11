@@ -22,6 +22,14 @@
 
 ### 2021.03.11
 
+#### 이종희
+
+##### 2. OS Overview (1/3)
+
+https://jjong2.tistory.com/5
+
+
+
 #### 조명희
 
 ##### 2. OS Overview (1/3)
