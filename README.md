@@ -34,6 +34,12 @@ https://maeng2world.tistory.com/24
 
 https://jjong2.tistory.com/7
 
+#### 곽온겸
+
+##### 3. OS Overview (2/3)
+
+https://codingantbean.tistory.com/7
+
 ---
 
 ### 2021.03.11
