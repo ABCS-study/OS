@@ -28,7 +28,13 @@
 
 https://maeng2world.tistory.com/24
 
+#### 이종희
 
+##### 2. OS Overview (2/3)
+
+https://jjong2.tistory.com/7
+
+---
 
 ### 2021.03.11
 
