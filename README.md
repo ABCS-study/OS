@@ -26,7 +26,7 @@
 
 ##### 2. OS Overview (3/3)
 
-https://jjong2.tistory.com/7
+https://jjong2.tistory.com/10
 
 
 
