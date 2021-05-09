@@ -22,6 +22,20 @@
 
 
 
+### 2020.05.10
+
+#### 조명희
+
+##### 4. Thread Management
+
+https://maeng2world.tistory.com/149
+
+##### 5. Process Scheduling(1)
+
+https://maeng2world.tistory.com/150
+
+
+
 ### 2021.05.09
 
 #### 조명희
